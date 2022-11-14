@@ -2,3 +2,4 @@ pytelegrambotapi
 gtts
 praw
 psycopg2
+requests
