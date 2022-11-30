@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import requests
 
-bot = telebot.TeleBot('5728154756:AAE6bRH8TuCDACbrUkxHBidCwPd348MyAtY')
+bot = telebot.TeleBot('5829632205:AAF4h136vOa2_VjL3EWoLInYZLR5XDqHdT0')
 base_address = 'https://glacial-earth-93029.herokuapp.com/'
 
 
